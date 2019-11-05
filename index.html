@@ -278,15 +278,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-black"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Full Stack Developer / Vcidex Solution</b></h5>
+          <h5 class="w3-opacity"><b>Full Stack Developer / Megadot Computer</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2019 - <span class="w3-tag w3-teal w3-round"> Current</span></h6>
           <p>Facilitating cutting-edge engineering solutions with a wide range of e-commerce ,ERP application and technology skills.</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Trainee / Megadot Computer</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2018 - Dec 2019</h6>
-          <p>Partnered with designers to implement custom web-based simulations for client review.</p>
           <hr>
         </div>
       </div>
