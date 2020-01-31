@@ -144,12 +144,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
      
 
-       <img src="megadotshop.PNG" alt="megadotshop" title="megadotshop" class="w3-round" style="height: 150px; width: 300px;"/>
+       <img src="megadot.PNG" alt="megadotshop" title="megadotshop" class="w3-round" style="height: 150px; width: 300px;"/>
 
   
 
           <h3 class="w3-text-black">Website</h3>
-            <a href =""><h5 class="w3-text-black">Live Demo</h5></a>
+            <a href ="http://megadot.in/"><h5 class="w3-text-black">Live Demo</h5></a>
         </div>
 
       </div>
@@ -162,12 +162,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
      
 
-       <img src="webapp.PNG" alt="webapp" title="webapp" class="w3-round" style="height: 150px; width: 300px;"  />
+       <img src="hms.PNG" alt="HMS" title="HMS" class="w3-round" style="height: 150px; width: 300px;"  />
 
   
 
           <h3 class="w3-text-black">Hospital Management</h3>
-<a href =""><h5 class="w3-text-black">Live Demo</h5></a>
+<a href ="http://megadot.in/Mdot/software/HMS"><h5 class="w3-text-black">Live Demo</h5></a>
         </div>
 
       </div>
@@ -180,12 +180,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
      
 
-       <img src="friends.PNG" alt="Wipro" title="Wipro" class="w3-round" style="height: 150px; width: 300px;" />
+       <img src="Contract.PNG" alt="Contract" title="Contract" class="w3-round" style="height: 150px; width: 300px;" />
 
   
 
           <h3 class="w3-text-black">Contract Management</h3>
-           <a href =""><h5 class="w3-text-black">Live Demo</h5></a>
+           <a href ="http://megadot.in/Mdot/software/amc"><h5 class="w3-text-black">Live Demo</h5></a>
         </div>
 
       </div>
@@ -198,12 +198,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
      
 
-       <img src="friends.PNG" alt="Wipro" title="Wipro" class="w3-round" style="height: 150px; width: 300px;" />
+       <img src="events.PNG" alt="events" title="events" class="w3-round" style="height: 150px; width: 300px;" />
 
   
 
           <h3 class="w3-text-black">Event Management</h3>
-           <a href =""><h5 class="w3-text-black">Live Demo</h5></a>
+           <a href ="http://megadot.in/Mdot/software/event"><h5 class="w3-text-black">Live Demo</h5></a>
         </div>
 
       </div>
@@ -303,6 +303,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <h5 class="w3-opacity"><b>Full Stack Developer /Vcidex Solution</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2019 - <span class="w3-tag w3-teal w3-round"> Current</span></h6>
           <p>Partnered with designers to implement custom web-based simulations for client review.</p>
+           <hr>
         </div>
       </div>
 
