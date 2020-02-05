@@ -312,7 +312,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Degree</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2019</h6>
-          <p>Bachelor Degree in Electronics and Communication Engineering at Einstein College of Engineering,Tirunelveli with <b>76.2%</b>.</p>
+          <p>Bachelor Degree in Electronics and Communication Engineering at Einstein College of Engineering,Tirunelveli with <b>75.7%</b>.</p>
           <hr>
         </div>
         <div class="w3-container">
