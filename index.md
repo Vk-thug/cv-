@@ -293,7 +293,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     </div>
        </div>
     
-      <div class="w3-container w3-card w3-white w3-margin-bottom">
+      <!--div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-black"></i>Work Experience</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Full Stack Developer / Megadot Computer</b></h5>
@@ -305,7 +305,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Partnered with designers to implement custom web-based simulations for client review.</p>
            <hr>
         </div>
-      </div>
+      </div-->
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-black"></i>Education</h2>
